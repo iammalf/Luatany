@@ -2421,7 +2421,6 @@ body {
   color: yellow;
   position: absolute;
   font-weight: normal;
-  letter-spacing: 8px;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
